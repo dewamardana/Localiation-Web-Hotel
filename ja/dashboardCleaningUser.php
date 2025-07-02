@@ -1,16 +1,16 @@
 <?php
 
 return [
-    'title'         => 'Monthly Points Recap',
-    'filter_year'   => 'Year',
-    'filter_month'  => 'Month',
-    'filter_button' => 'Filter',
-    'export_button' => 'Export Recap excel',
+    'title'         => '月次ポイント集計',
+    'filter_year'   => '年',
+    'filter_month'  => '月',
+    'filter_button' => 'フィルター',
+    'export_button' => '集計をExcelにエクスポート',
 
     'table' => [
-        'no'      => 'No',
-        'name'    => 'Name',
-        'day'     => 'Day',
-        'total'   => 'Total',
+        'no'      => '番号',
+        'name'    => '名前',
+        'day'     => '日付',
+        'total'   => '合計',
     ],
 ];

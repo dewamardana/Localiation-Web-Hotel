@@ -2,24 +2,24 @@
 
 return [
     // Title & Page Headings
-    'title_index'   => 'Building Page | Dashboard',
-    'title_create'  => 'Add Building | Dashboard',
-    'title_show'    => 'Building Details | Dashboard',
-    'title_edit'    => 'Edit Building | Dashboard',
+    'title_index'   => '建物ページ | ダッシュボード',
+    'title_create'  => '建物を追加 | ダッシュボード',
+    'title_show'    => '建物詳細 | ダッシュボード',
+    'title_edit'    => '建物を編集 | ダッシュボード',
 
     // Success Messages
-    'success_add'   => 'Building has been successfully added!',
-    'success_update'=> 'Building has been successfully updated!',
-    'success_delete'=> 'Building data has been successfully deleted!',
+    'success_add'   => '建物が正常に追加されました！',
+    'success_update'=> '建物が正常に更新されました！',
+    'success_delete'=> '建物データが正常に削除されました！',
 
     // Validation Error Messages
     'validation' => [
-        'building_name_required' => 'Building name is required.',
-        'slug_required'          => 'Slug is required.',
-        'slug_unique'            => 'Slug has already been taken.',
-        'description_required'   => 'Description is required.',
-        'photo_image'            => 'The uploaded file must be an image.',
-        'photo_mimes'            => 'The image must be a file of type: jpeg, png, jpg, or gif.',
-        'photo_max'              => 'The image size must not exceed 2MB.',
+        'building_name_required' => '建物名は必須です。',
+        'slug_required'          => 'スラグは必須です。',
+        'slug_unique'            => 'このスラグはすでに使用されています。',
+        'description_required'   => '説明文は必須です。',
+        'photo_image'            => 'アップロードされたファイルは画像である必要があります。',
+        'photo_mimes'            => '画像の形式は jpeg、png、jpg、gif のいずれかでなければなりません。',
+        'photo_max'              => '画像サイズは2MB以下にしてください。',
     ],
 ];

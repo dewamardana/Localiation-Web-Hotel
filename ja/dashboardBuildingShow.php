@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'description'       => 'Description',
-    'back'              => 'Back',
+    'description'       => '説明',
+    'back'              => '戻る',
 ];

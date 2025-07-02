@@ -1,13 +1,13 @@
 <?php
 
 return [
-    'title'         => 'Worker Details',
-    'profile_photo' => 'Profile Photo',
-    'name'          => 'Name',
-    'department'    => 'Department',
-    'email'         => 'Email',
-    'username'      => 'Username',
-    'phone_number'  => 'Phone Number',
-    'status'        => 'Status',
-    'back'          => '← Back',
+    'title'         => 'ワーカー詳細',
+    'profile_photo' => 'プロフィール写真',
+    'name'          => '氏名',
+    'department'    => '部署',
+    'email'         => 'メールアドレス',
+    'username'      => 'ユーザー名',
+    'phone_number'  => '電話番号',
+    'status'        => 'ステータス',
+    'back'          => '← 戻る',
 ];

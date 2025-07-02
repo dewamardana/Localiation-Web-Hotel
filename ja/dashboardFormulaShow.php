@@ -1,13 +1,13 @@
 <?php
 
 return [
-    'title'          => 'Formula Detail',
-    'building_name'  => 'Building Name',
-    'member_count'   => 'Member Count',
+    'title'          => 'フォーミュラ詳細',
+    'building_name'  => '建物名',
+    'member_count'   => '会員数',
     'oa'             => 'OA',
     'ov'             => 'OV',
     'stay'           => 'Stay',
-    'vec'            => 'Vec',
-    'premier'        => 'Premier',
-    'back'           => 'Back',
+    'vec'            => 'V/eco',
+    'premier'        => 'プレミア',
+    'back'           => '戻る',
 ];

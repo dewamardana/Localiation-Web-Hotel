@@ -2,24 +2,24 @@
 
 return [
     // Titles & Headings
-    'title_index'   => 'Formula Data | Dashboard',
-    'title_create'  => 'Add Formula | Dashboard',
-    'title_show'    => 'Formula Details | Dashboard',
-    'title_edit'    => 'Edit Formula | Dashboard',
+    'title_index'   => 'フォーミュラデータ | ダッシュボード',
+    'title_create'  => 'フォーミュラを追加 | ダッシュボード',
+    'title_show'    => 'フォーミュラ詳細 | ダッシュボード',
+    'title_edit'    => 'フォーミュラを編集 | ダッシュボード',
 
     // Success Messages
-    'success_add'      => 'Formula has been successfully added!',
-    'success_update'   => 'Formula has been successfully updated!',
-    'success_delete'   => 'Formula has been successfully deleted!',
+    'success_add'      => 'フォーミュラが正常に追加されました！',
+    'success_update'   => 'フォーミュラが正常に更新されました！',
+    'success_delete'   => 'フォーミュラが正常に削除されました！',
 
     // Validation Error Messages
     'validation' => [
-        'building_slug_required' => 'Building slug is required.',
-        'member_count_required'  => 'Member count is required.',
-        'oa_required'            => 'OA value is required.',
-        'ov_required'            => 'OV value is required.',
-        'stay_required'          => 'Stay value is required.',
-        'vec_required'           => 'Vec value is required.',
-        'premier_numeric'        => 'Premier value must be a number.',
+        'building_slug_required' => '建物スラグは必須です。',
+        'member_count_required'  => '会員数は必須です。',
+        'oa_required'            => 'OAの値は必須です。',
+        'ov_required'            => 'OVの値は必須です。',
+        'stay_required'          => 'Stayの値は必須です。',
+        'vec_required'           => 'V/ecoの値は必須です。',
+        'premier_numeric'        => 'プレミアの値は数値で入力してください。',
     ],
 ];

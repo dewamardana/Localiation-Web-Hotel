@@ -1,21 +1,21 @@
 <?php
 
 return [
-    'title'  => '📊 Formula Data',
-    'button' => 'New Formula',
+    'title'  => '📊 フォーミュラデータ',
+    'button' => '新規フォーミュラ',
 
     'table' => [
-        'building'     => 'Building',
-        'member'       => 'Member',
+        'building'     => '建物',
+        'member'       => '会員数',
         'oa'           => 'OA',
         'ov'           => 'OV',
         'stay'         => 'Stay',
-        'vec'          => 'Vec',
-        'premier'      => 'Premier',
-        'action'       => 'Action',
-        'edit'         => 'Edit',
-        'show'         => 'Show',
-        'delete'       => 'Delete',
-        'delete_confirm' => 'Are you sure?',
+        'vec'          => 'V/eco',
+        'premier'      => 'プレミア',
+        'action'       => '操作',
+        'edit'         => '編集',
+        'show'         => '詳細',
+        'delete'       => '削除',
+        'delete_confirm' => '本当に削除しますか？',
     ],
 ];

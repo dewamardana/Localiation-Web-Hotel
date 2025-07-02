@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'title'               => 'Edit Building',
-    'building_image'      => 'Building Image',
-    'image_hint'          => 'Click image to replace',
-    'building_name'       => 'Building Name',
-    'description'         => 'Description',
-    'button'              => 'Update Building',
-    'back'                => 'Back',
+    'title'               => '建物を追加',
+    'building_image'      => '建物画像',
+    'image_hint'          => '画像をクリックして変更',
+    'building_name'       => '建物名',
+    'description'         => '説明',
+    'button'              => '建物情報を更新',
+    'back'                => '戻る',
 ];

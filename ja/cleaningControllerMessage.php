@@ -1,27 +1,27 @@
 <?php
 
 return [
-    'title_data'          => 'Cleaning Data Recap',
-    'title_member_poin'   => 'Member Point Recap',
+    'title_data'          => '清掃データ集計',
+    'title_member_poin'   => '会員ポイント集計',
 
     // Header exportCleaningData
-    'header_name_member'  => 'Member Name',
+    'header_name_member'  => '会員名',
     'header_oa'           => 'OA',
     'header_ov'           => 'OV',
     'header_stay'         => 'Stay',
-    'header_vec'          => 'Vec',
-    'header_premier'      => 'Premier',
-    'header_total'        => 'Total',
-    'header_name_member2' => 'Member Name',
-    'header_poin'         => 'Point',
+    'header_vec'          => 'V/eco',
+    'header_premier'      => 'プレミア',
+    'header_total'        => '合計',
+    'header_name_member2' => '会員名',
+    'header_poin'         => 'ポイント',
 
     // Header exportRekapBulanan
-    'header_no'           => 'No',
-    'header_nama'         => 'Name',
-    'header_day'          => 'Day',
-    'header_total_poin'   => 'Total Point',
+    'header_no'           => '番号',
+    'header_nama'         => '名前',
+    'header_day'          => '日付',
+    'header_total_poin'   => '合計ポイント',
 
     // Filename
-    'filename_cleaning'   => 'Cleaning_Report',
-    'filename_rekap'      => 'Monthly_Recap',
+    'filename_cleaning'   => '清掃レポート',
+    'filename_rekap'      => '月次集計',
 ];

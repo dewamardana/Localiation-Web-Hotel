@@ -1,18 +1,18 @@
 <?php
 
 return [
-    'title' => 'Dashboard',
-    'total_users' => 'Total Users',
-    'active_users' => 'Active Users',
-    'most_active_user' => 'Most Active User',
-    'points' => 'points',
-    'filter' => 'Filter',
-    'reset' => 'Reset',
-    'start_date' => 'Start Date',
-    'end_date' => 'End Date',
-    'daily_stat' => 'Daily Cleaning Statistics (Per Building)',
-    'total_point' => 'Total Point Per User',
-    'title_dashboard' => 'Dashboard',
-    'logout' => 'Successful logout!',
+    'title' => 'ダッシュボード',
+    'total_users' => '総ユーザー数',
+    'active_users' => 'アクティブユーザー数',
+    'most_active_user' => '最もアクティブなユーザー',
+    'points' => 'ポイント',
+    'filter' => 'フィルター',
+    'reset' => 'リセット',
+    'start_date' => '開始日',
+    'end_date' => '終了日',
+    'daily_stat' => '日次清掃統計（建物別）',
+    'total_point' => 'ユーザー別合計ポイント',
+    'title_dashboard' => 'ダッシュボード',
+    'logout' => 'ログアウトしました！',
 ]; 
  

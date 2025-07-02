@@ -2,8 +2,8 @@
 
 return [
 
-    'failed' => 'shigoto ganbarou.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'ログイン情報が正しくありません.',
+    'password' => '入力されたパスワードが正しくありません.',
+    'throttle' => 'ログインの試行が多すぎます。しばらくしてから、もう一度お試しください.',
 
 ];
