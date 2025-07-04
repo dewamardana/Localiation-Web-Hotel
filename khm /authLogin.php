@@ -28,6 +28,8 @@ return [
         'id' => 'Bahasa Indonesia',
         'ja' => '日本語',
         'khm' => 'ភាសាខ្មែរ',
+        
+        
     ],
     'error' => 'Email or password is incorrect.',
 ];
