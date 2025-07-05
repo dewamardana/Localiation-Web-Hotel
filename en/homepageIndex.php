@@ -19,6 +19,7 @@ return [
 
     'logout' => 'Logout',
     'dashboard' => 'Dashboard',
+    'input_record' => 'Data History',
     'room_data_input' => 'Room Data Input',
 
     'team_members' => 'Team Members',

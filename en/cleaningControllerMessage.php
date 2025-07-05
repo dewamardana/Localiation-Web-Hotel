@@ -1,8 +1,9 @@
 <?php
 
 return [
-    'title_data'          => 'Cleaning Data Recap',
-    'title_member_poin'   => 'Member Point Recap',
+    'title_data'          => 'Cleaning Data Recap | Dashboard',
+    'title_member_poin'   => 'Member Point Recap | Dashboard',
+    'title_input_record'   => 'Data History | Dashboard',
 
     // Header exportCleaningData
     'header_name_member'  => 'Member Name',

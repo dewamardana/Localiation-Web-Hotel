@@ -16,6 +16,10 @@ return [
     'active'              => 'Active',
     'inactive'            => 'Inactive',
     'password'            => 'Password',
+    'password_hint'       => 'Leave it blank if you do not want to change the password.',
+    'role'                => 'Role',
+    'user'                => 'User',
+    'admin'               => 'Admin',
     'update_worker'       => 'Update Worker',
     'back'                => '← Back',
 

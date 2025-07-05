@@ -33,11 +33,13 @@ return [
         'email_unique'         => 'This email is already registered.',
         'password_required'    => 'Password is required.',
         'password_min'         => 'Password must be at least 6 characters long.',
-        'phone_required'  => 'Phone number is required.',
+        'phone_required'       => 'Phone number is required.',
         'gender_in'            => 'Please select a valid gender.',
-        'photo_error'           => 'The selected file must be an image.',
-        'photo_mimes'           => 'Photo must be in jpeg, png, jpg, or gif format.',
-        'photo_max'             => 'Photo size must not exceed 2MB.',
+        'photo_error'          => 'The selected file must be an image.',
+        'photo_mimes'          => 'Photo must be in jpeg, png, jpg, or gif format.',
+        'photo_max'            => 'Photo size must not exceed 2MB.',
+        'role_required'        => 'Role must be selected.',
+        'role_in'              => 'Role must be user or admin.',
     ],
 
 
