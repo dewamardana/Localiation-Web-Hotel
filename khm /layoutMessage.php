@@ -2,17 +2,17 @@
 
 return [
 
-    'hello' => 'hi',
-    'dashboard_name' => 'SHIGIRA Dashboard',
-    'button_logout' => 'Logout',
-    'footer_message' => '2025 SHIGIRA Dashboard | Made by SHIGIRA Team',
-    'sidebar_menu' => 'Menu',
-    'sidebar_data' => 'Data',
-    'sidebar_cleanning' => 'Cleaning Data',
-    'sidebar_user' => 'User Point',
-    'sidebar_workers' => 'Workers',
-    'sidebar_building' => 'Building',
-    'sidebar_formula' => 'Formula',
-    'sidebar_dashboard' => '2025 My Dashboard'
+    'hello' => 'សួស្តី',
+    'dashboard_name' => 'ផ្ទាំងការងារ SHIGIRA',
+    'button_logout' => 'ចាកចេញ',
+    'footer_message' => '2025 ផ្ទាំងការងារ SHIGIRA | បង្កើតដោយក្រុម SHIGIRA',
+    'sidebar_menu' => 'ម៉ឺនុយ',
+    'sidebar_data' => 'ទិន្នន័យ',
+    'sidebar_cleanning' => 'ទិន្នន័យការសម្អាត',
+    'sidebar_user' => 'ពិន្ទុអ្នកប្រើ',
+    'sidebar_workers' => 'កម្មករ',
+    'sidebar_building' => 'អគារ',
+    'sidebar_formula' => 'រូបមន្ត',
+    'sidebar_dashboard' => '2025 ផ្ទាំងការងាររបស់ខ្ញុំ',
 
 ];

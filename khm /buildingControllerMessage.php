@@ -2,24 +2,24 @@
 
 return [
     // Title & Page Headings
-    'title_index'   => 'Building Page | Dashboard',
-    'title_create'  => 'Add Building | Dashboard',
-    'title_show'    => 'Building Details | Dashboard',
-    'title_edit'    => 'Edit Building | Dashboard',
+    'title_index'   => 'ទំព័រអគារ | ផ្ទាំងការងារ',
+    'title_create'  => 'បន្ថែមអគារ | ផ្ទាំងការងារ',
+    'title_show'    => 'ពត័មានលម្អិតអគារ | ផ្ទាំងការងារ',
+    'title_edit'    => 'កែប្រែអគារ | ផ្ទាំងការងារ',
 
     // Success Messages
-    'success_add'   => 'Building has been successfully added!',
-    'success_update'=> 'Building has been successfully updated!',
-    'success_delete'=> 'Building data has been successfully deleted!',
+    'success_add'   => 'អគារត្រូវបានបន្ថែមដោយជោគជ័យ!',
+    'success_update'=> 'អគារត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ!',
+    'success_delete'=> 'ទិន្នន័យអគារត្រូវបានលុបដោយជោគជ័យ!',
 
     // Validation Error Messages
     'validation' => [
-        'building_name_required' => 'Building name is required.',
-        'slug_required'          => 'Slug is required.',
-        'slug_unique'            => 'Slug has already been taken.',
-        'description_required'   => 'Description is required.',
-        'photo_image'            => 'The uploaded file must be an image.',
-        'photo_mimes'            => 'The image must be a file of type: jpeg, png, jpg, or gif.',
-        'photo_max'              => 'The image size must not exceed 2MB.',
+        'building_name_required' => 'ឈ្មោះអគារជាសារពើភ័ណ្ឌ។',
+        'slug_required'          => 'Slug ជាសារពើភ័ណ្ឌ។',
+        'slug_unique'            => 'Slug ត្រូវបានប្រើរួចហើយ។',
+        'description_required'   => 'ការពិពណ៌នាជាសារពើភ័ណ្ឌ។',
+        'photo_image'            => 'ឯកសារដែលបានបញ្ចូលត្រូវតែជារូបភាព។',
+        'photo_mimes'            => 'រូបភាពត្រូវតែជាប្រភេទឯកសារ: jpeg, png, jpg, ឬ gif។',
+        'photo_max'              => 'ទំហំរូបភាពមិនអាចលើសពី 2MB។',
     ],
 ];

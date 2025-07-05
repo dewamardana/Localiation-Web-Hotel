@@ -1,18 +1,18 @@
 <?php
 
 return [
-    'title' => 'Dashboard',
-    'total_users' => 'Total Users',
-    'active_users' => 'Active Users',
-    'most_active_user' => 'Most Active User',
-    'points' => 'points',
-    'filter' => 'Filter',
-    'reset' => 'Reset',
-    'start_date' => 'Start Date',
-    'end_date' => 'End Date',
-    'daily_stat' => 'Daily Cleaning Statistics (Per Building)',
-    'total_point' => 'Total Point Per User',
-    'title_dashboard' => 'Dashboard',
-    'logout' => 'Successful logout!',
+    'title' => 'ផ្ទាំងការងារ',
+    'total_users' => 'ចំនួនអ្នកប្រើសរុប',
+    'active_users' => 'អ្នកប្រើដែលកំពុងសកម្ម',
+    'most_active_user' => 'អ្នកប្រើដែលសកម្មជាងគេ',
+    'points' => 'ពិន្ទុ',
+    'filter' => 'តម្រង',
+    'reset' => 'សំអាត',
+    'start_date' => 'ថ្ងៃចាប់ផ្តើម',
+    'end_date' => 'ថ្ងៃបញ្ចប់',
+    'daily_stat' => 'ស្ថិតិការសម្អាតប្រចាំថ្ងៃ (តាមអគារ)',
+    'total_point' => 'ពិន្ទុសរុបដោយអ្នកប្រើ',
+    'title_dashboard' => 'ផ្ទាំងការងារ',
+    'logout' => 'ចាកចេញដោយជោគជ័យ!',
 ]; 
  

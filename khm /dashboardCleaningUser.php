@@ -1,16 +1,16 @@
 <?php
 
 return [
-    'title'         => 'Monthly Points Recap',
-    'filter_year'   => 'Year',
-    'filter_month'  => 'Month',
-    'filter_button' => 'Filter',
-    'export_button' => 'Export Recap excel',
+    'title'         => 'សង្ខេបពិន្ទុប្រចាំខែ',
+    'filter_year'   => 'ឆ្នាំ',
+    'filter_month'  => 'ខែ',
+    'filter_button' => 'តម្រង',
+    'export_button' => 'នាំចេញ Excel សង្ខេប',
 
     'table' => [
-        'no'      => 'No',
-        'name'    => 'Name',
-        'day'     => 'Day',
-        'total'   => 'Total',
+        'no'      => 'លេខ',
+        'name'    => 'ឈ្មោះ',
+        'day'     => 'ថ្ងៃ',
+        'total'   => 'សរុប',
     ],
 ];

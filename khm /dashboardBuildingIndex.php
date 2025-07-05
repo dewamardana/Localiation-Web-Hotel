@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'title'  => '📋 Building Data',
-    'button' => 'New Building',
+    'title'  => '📋 ទិន្នន័យអគារ',
+    'button' => 'អគារថ្មី',
 
     'table' => [
-        'photo'        => 'Photo',
-        'name'         => 'Name',
-        'description'  => 'Description',
-        'action'       => 'Action',
-        'edit'         => 'Edit',
-        'show'         => 'Show',
-        'delete'       => 'Delete',
-        'delete_confirm' => 'Are you sure?',
+        'photo'        => 'រូបភាព',
+        'name'         => 'ឈ្មោះ',
+        'description'  => 'ការពិពណ៌នា',
+        'action'       => 'សកម្មភាព',
+        'edit'         => 'កែប្រែ',
+        'show'         => 'បង្ហាញ',
+        'delete'       => 'លុប',
+        'delete_confirm' => 'តើអ្នកច្បាស់ជាក់ថាអ្នកចង់ធ្វើដូច្នេះ?',
     ],
 ];

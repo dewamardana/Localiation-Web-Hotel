@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'title'               => 'Add Building',
-    'building_image'      => 'Building Image',
-    'image_hint'          => 'Click image to replace',
-    'building_name'       => 'Building Name',
-    'description'         => 'Description',
-    'button' => 'Add Building',
-    'back'                => 'Back',
+    'title'               => 'បន្ថែមអគារ',
+    'building_image'      => 'រូបភាពអគារ',
+    'image_hint'          => 'ចុចលើរូបភាពដើម្បីជំនួស',
+    'building_name'       => 'ឈ្មោះអគារ',
+    'description'         => 'ការពិពណ៌នា',
+    'button'              => 'បន្ថែមអគារ',
+    'back'                => 'ត្រលប់ក្រោយ',
 ];

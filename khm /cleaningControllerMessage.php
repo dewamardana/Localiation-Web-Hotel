@@ -1,27 +1,26 @@
 <?php
 
 return [
-    'title_data'          => 'Cleaning Data Recap',
-    'title_member_poin'   => 'Member Point Recap',
+    'title_data'          => 'សង្ខេបទិន្នន័យការសម្អាត',
+    'title_member_poin'   => 'សង្ខេបពិន្ទុសមាជិក',
 
     // Header exportCleaningData
-    'header_name_member'  => 'Member Name',
+   'header_name_member'  => 'ឈ្មោះសមាជិក',
     'header_oa'           => 'OA',
     'header_ov'           => 'OV',
     'header_stay'         => 'Stay',
-    'header_vec'          => 'Vec',
+    'header_vec'          => 'V/eco',
     'header_premier'      => 'Premier',
-    'header_total'        => 'Total',
-    'header_name_member2' => 'Member Name',
-    'header_poin'         => 'Point',
-
+    'header_total'        => 'សរុប',
+    'header_name_member2' => 'ឈ្មោះសមាជិក',
+    'header_poin'         => 'ពិន្ទុ',
     // Header exportRekapBulanan
-    'header_no'           => 'No',
-    'header_nama'         => 'Name',
-    'header_day'          => 'Day',
-    'header_total_poin'   => 'Total Point',
+    'header_no'           => 'លេខ',
+    'header_nama'         => 'ឈ្មោះ',
+    'header_day'          => 'ថ្ងៃ',
+    'header_total_poin'   => 'ពិន្ទុសរុប',
 
     // Filename
-    'filename_cleaning'   => 'Cleaning_Report',
-    'filename_rekap'      => 'Monthly_Recap',
+    'filename_cleaning'   => 'របាយការណ៍ការសម្អាត',
+    'filename_rekap'      => 'សង្ខេបប្រចាំខែ',
 ];

@@ -1,21 +1,21 @@
 <?php
 
 return [
-    'title'  => '📊 Formula Data',
-    'button' => 'New Formula',
+    'title'  => '📊 ទិន្នន័យរូបមន្ត',
+    'button' => 'រូបមន្តថ្មី',
 
     'table' => [
-        'building'     => 'Building',
-        'member'       => 'Member',
+        'building'     => 'អគារ',
+        'member'       => 'សមាជិក',
         'oa'           => 'OA',
         'ov'           => 'OV',
         'stay'         => 'Stay',
-        'vec'          => 'Vec',
+        'vec'          => 'V/eco',
         'premier'      => 'Premier',
-        'action'       => 'Action',
-        'edit'         => 'Edit',
-        'show'         => 'Show',
-        'delete'       => 'Delete',
-        'delete_confirm' => 'Are you sure?',
+        'action'       => 'សកម្មភាព',
+        'edit'         => 'កែប្រែ',
+        'show'         => 'បង្ហាញ',
+        'delete'       => 'លុប',
+        'delete_confirm' => 'តើអ្នកច្បាស់ជាក់ថាអ្នកចង់ធ្វើដូច្នេះ?',
     ],
 ];
