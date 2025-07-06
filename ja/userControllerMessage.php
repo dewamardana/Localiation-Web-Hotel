@@ -33,11 +33,13 @@ return [
         'email_unique'         => 'このメールアドレスはすでに登録されています。',
         'password_required'    => 'パスワードは必須です。',
         'password_min'         => 'パスワードは6文字以上で入力してください。',
-        'phone_required'  => '電話番号は必須です。',
+        'phone_required'       => '電話番号は必須です。',
         'gender_in'            => '有効な性別を選択してください。',
-        'photo_error'           => '選択されたファイルは画像である必要があります。',
-        'photo_mimes'           => 'P画像の形式は jpeg、png、jpg、または gif でなければなりません。',
-        'photo_max'             => '画像サイズは2MBを超えてはいけません。',
+        'photo_error'          => '選択されたファイルは画像である必要があります。',
+        'photo_mimes'          => '画像は jpeg、png、jpg、または gif 形式である必要があります。',
+        'photo_max'            => '画像サイズは2MBを超えてはいけません。',
+        'role_required'        => '役割を選択する必要があります。',
+        'role_in'              => '役割は「ユーザー」または「管理者」でなければなりません。',
     ],
 
 

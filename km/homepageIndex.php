@@ -19,6 +19,7 @@ return [
 
     'logout' => 'ចាកចេញ',
     'dashboard' => 'ផ្ទាំងការងារ',
+    'input_record' => 'ប្រវត្តិទិន្នន័យ',
     'room_data_input' => 'បញ្ចូលទិន្នន័យបន្ទប់',
 
     'team_members' => 'សមាជិកក្រុម',

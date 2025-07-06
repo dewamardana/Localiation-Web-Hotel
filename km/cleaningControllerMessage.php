@@ -1,8 +1,9 @@
 <?php
 
 return [
-    'title_data'          => 'សង្ខេបទិន្នន័យការសម្អាត',
-    'title_member_poin'   => 'សង្ខេបពិន្ទុសមាជិក',
+    'title_data'          => 'សង្ខេបទិន្នន័យការសម្អាត | ផ្ទាំងការងារ',
+    'title_member_poin'   => 'សង្ខេបពិន្ទុសមាជិក | ផ្ទាំងការងារ',
+    'title_input_record'  => 'ប្រវត្តិទិន្នន័យ | ផ្ទាំងការងារ',
 
     // Header exportCleaningData
    'header_name_member'  => 'ឈ្មោះសមាជិក',

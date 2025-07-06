@@ -1,6 +1,12 @@
 <?php
 
 return [
+    'title_data'          => '清掃データの概要 | ダッシュボード',
+    'title_member_poin'   => 'メンバー獲得ポイントの概要 | ダッシュボード',
+    'title_input_record'  => 'データ履歴 | ダッシュボード',
+
+
+
     'title_data'          => '清掃データ集計',
     'title_member_poin'   => '会員ポイント集計',
 

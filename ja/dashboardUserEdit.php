@@ -16,6 +16,10 @@ return [
     'active'              => 'アクティブ',
     'inactive'            => '非アクティブ',
     'password'            => 'パスワード',
+    'password_hint'       => 'パスワードを変更したくない場合は空白のままにしてください。',
+    'role'                => '役割',
+    'user'                => 'ユーザー',
+    'admin'               => '管理者',
     'update_worker'       => 'ワーカーを更新',
     'back'                => '← 戻る',
 

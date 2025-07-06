@@ -19,6 +19,7 @@ return [
 
     'logout' => 'ログアウト',
     'dashboard' => 'ダッシュボード',
+    'input_record' => 'データ履歴',
     'room_data_input' => '部屋データ入力',
 
     'team_members' => 'チームメンバー',
@@ -36,12 +37,12 @@ return [
     'vec' => 'V/eco',
     'premier' => 'プレミア',
 
-    'total_rooms' => '総部屋数',
+    'total_rooms' => '合計数',
     'submit' => '送信',
 
 
-    'total_rooms' => 'Total Rooms',
-    'submit' => 'Submit',
+    'total_rooms' => '合計数',
+    'submit' => '送信',
 
     'language' => [
         'en' => '英語',
