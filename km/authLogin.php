@@ -24,11 +24,10 @@ return [
 
     // Language names (pakai untuk select option)
     'language' => [
-        'en' => 'English',
-        'id' => 'Bahasa Indonesia',
-        'ja' => '日本語',
-        'khm' => 'ភាសាខ្មែរ',
-        
+        'en' => 'ភាសាអង់គ្លេស',
+        'id' => 'ភាសាបារាំងឥណ្ឌូនេស៊ី',
+        'ja' => 'ភាសាជប៉ុន',
+        'km' => 'ភាសាខ្មែរ',
         
     ],
     'error' => 'អ៊ីមែល ឬពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ។',
