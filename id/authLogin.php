@@ -27,6 +27,7 @@ return [
         'en' => 'Inggris',
         'id' => 'Bahasa Indonesia',
         'ja' => '日本語',
+        'km' => 'Khamer',
     ],
     'error' => 'Alamat email atau kata sandi Anda salah.'
 ];

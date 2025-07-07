@@ -44,6 +44,7 @@ return [
         'en' => 'English',
         'id' => 'Bahasa Indonesia',
         'ja' => '日本語',
+        'km' => 'Khamer',
     ],
 
     'alerts' => [
