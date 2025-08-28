@@ -27,7 +27,7 @@ return [
         'en' => 'English',
         'id' => 'Bahasa Indonesia',
         'ja' => '日本語',
-        'khm' => 'ភាសាខ្មែរ',
+        'km' => 'Khamer',
     ],
     'error' => 'Email or password is incorrect.',
 ];
